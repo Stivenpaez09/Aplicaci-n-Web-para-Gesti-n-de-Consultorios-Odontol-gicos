@@ -43,7 +43,7 @@ Detalles técnicos
   - Captura del modelo de datos
 
 Cómo ejecutar
-  Clonar el repositorio: git clone https://github.com/Stivenpaez09/Aplicaci-n-Web-para-Gesti-n-de-Consultorios-Odontol-gicos
+  Clonar el repositorio: git clone https://github.com/Stivenpaez09/Aplicacion-Web-para-Gestion-de-Consultorios-Odontologicos
   Importar el proyecto en tu IDE favorito (Netbeans o IntelliJ IDEA).
   Configurar la base de datos MySQL y actualizar el archivo persistence.xml con tus credenciales.
   Ejecutar el servidor y acceder a la aplicación desde el navegador.
