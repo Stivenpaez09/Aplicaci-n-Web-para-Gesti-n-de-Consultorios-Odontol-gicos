@@ -1,4 +1,5 @@
 Aplicación Web para Gestión de Consultorios Odontológicos
+
 Este proyecto es una aplicación web diseñada para la gestión integral de un consultorio odontológico. Fue desarrollada utilizando Java 15 (JDK 15.0.2) y sigue un enfoque orientado a objetos combinado con las mejores prácticas en persistencia de datos y arquitectura web.
 
 Características principales
